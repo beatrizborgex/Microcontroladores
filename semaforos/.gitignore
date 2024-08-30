@@ -1,0 +1,30 @@
+# Ignorar arquivos e diretórios temporários
+*.tmp
+*.log
+
+# Ignorar arquivos de compilação
+*.hex
+*.bin
+*.elf
+
+# Ignorar diretórios específicos do IDE
+.vscode/
+.idea/
+build/
+out/
+*.swp
+
+# Ignorar arquivos específicos de sistemas operacionais
+.DS_Store
+Thumbs.db
+
+# Ignorar arquivos de configuração pessoais
+*.user
+*.suo
+*.nib
+*.sublime-workspace
+*.sublime-project
+
+# Ignorar arquivos específicos do Wokwi
+*.wokwi.json
+
